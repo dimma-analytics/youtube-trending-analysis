@@ -61,4 +61,9 @@ The dataset used in this project was sourced from Kaggle and contains informatio
   - Category name mapping
   - Final pivot table used for insights
 
+## Files
+
+You can view the spreadsheet used for this analysis here:
+Trending youtube videos analysis.xlsx
+
 
