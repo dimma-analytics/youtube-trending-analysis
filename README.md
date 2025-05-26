@@ -55,15 +55,13 @@ Dimma — Data Analyst in Training | Google Data Analytics Certificate (In Progr
 The dataset used in this project was sourced from Kaggle and contains information on trending YouTube videos in the US.
 
 - **Raw Data:** Original dataset from Kaggle (not uploaded due to size)
-- **Cleaned Data:** [`youtube_clean_data.xlsx`](./youtube_clean_data.xlsx) — contains cleaned and transformed data, including:
+- **Cleaned Data:** [Download Cleaned Spreadsheet](Trending%20youtube%20videos%20analysis.xlsx)) — contains cleaned and transformed data, including:
   - Date formatting
   - Days to trend calculation
   - Category name mapping
   - Final pivot table used for insights
 
-## Files
 
-[Download Cleaned Spreadsheet](Trending%20youtube%20videos%20analysis.xlsx)
 
 
 
