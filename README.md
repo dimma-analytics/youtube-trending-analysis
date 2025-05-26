@@ -50,3 +50,15 @@ Dimma — Data Analyst in Training | Google Data Analytics Certificate (In Progr
 3. The category with the longest average days to trend is **Autos & Vehicles**, taking about **43.21** days to trend.
 4. There is a category labeled **"Unknown"** (possibly due to a missing category match) with **57** videos. This may require further cleaning or verification.
 
+## Data
+
+The dataset used in this project was sourced from Kaggle and contains information on trending YouTube videos in the US.
+
+- **Raw Data:** Original dataset from Kaggle (not uploaded due to size)
+- **Cleaned Data:** [`youtube_clean_data.xlsx`](./youtube_clean_data.xlsx) — contains cleaned and transformed data, including:
+  - Date formatting
+  - Days to trend calculation
+  - Category name mapping
+  - Final pivot table used for insights
+
+
