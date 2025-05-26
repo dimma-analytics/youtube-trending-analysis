@@ -43,3 +43,10 @@ To deliver actionable insights for content creators and digital marketers by ans
 
 ## Author
 Dimma — Data Analyst in Training | Google Data Analytics Certificate (In Progress)
+
+## Project Insights:
+1. The YouTube video category with the highest average views is **Music**, with an average of **6,201,003.12** views.
+2. The category that trends the fastest is **Nonprofits & Activism**, with an average of **5.39** days to trend.
+3. The category with the longest average days to trend is **Autos & Vehicles**, taking about **43.21** days to trend.
+4. There is a category labeled **"Unknown"** (possibly due to a missing category match) with **57** videos. This may require further cleaning or verification.
+
